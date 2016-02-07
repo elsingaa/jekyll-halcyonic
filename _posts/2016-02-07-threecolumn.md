@@ -2,6 +2,7 @@
 layout: threecolumn
 title: Three Column
 subtitle: A generic three column layout
+permalink: /threecolumn/
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam metus, congue
 vel suscipit ut, dignissim non risus. Vestibulum ante est, fringilla nec placerat
