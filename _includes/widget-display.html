@@ -1,0 +1,17 @@
+<section>
+	{% if widget.title %}
+	  <header>
+		<h2>{{ widget.title }}</h2>
+	  </header>
+	{% endif %}
+	{% if widget.text %}
+		<p>{{ widget.text }}</p>
+	{% endif %}
+	{% if widget.links %}
+	<ul class="link-list">
+		{% for link in widget.links %}
+			<li><a href="{{ link.url }}">{{ link.description }}</a></li>											
+		{% endfor %}
+	</ul>
+	{% endif %}
+</section>

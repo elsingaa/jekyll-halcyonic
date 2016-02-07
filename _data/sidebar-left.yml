@@ -1,0 +1,37 @@
+# Items for left sidebar
+- widget: 
+  title: Ipsum Dolor
+  text: "Vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat."
+  links:
+    - description: Sed dolore viverra
+      url: "#"
+
+    - description: Ligula non varius
+      url: "#"
+
+    - description: Dis parturient montes
+      url: "#"
+
+    - description: Nascetur ridiculus
+      url: "#"
+
+- widget:
+  title: Magna Phasellus
+  links:
+    - description: Sed dolore viverra
+      url: "#"
+
+    - description: Ligula non varius
+      url: "#"
+      
+    - description: Nec sociis natoque
+      url: "#"
+      
+    - description: Penatibus et magnis
+      url: "#"
+      
+    - description: Dis parturient montes
+      url: "#"
+      
+    - description: Nascetur ridiculus
+      url: "#"

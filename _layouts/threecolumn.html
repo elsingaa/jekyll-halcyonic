@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<!-- Content -->
+<div id="content-wrapper">
+	<div id="content">
+		<div class="container">
+			<div class="row">
+				<div class="3u 12u(mobile)">
+					{% include sidebar-left.html %}
+				</div>
+				<div class="6u 12u(mobile) important(mobile)">
+					<!-- Main Content -->
+						<section>
+							{% if page.title %}
+							<header>
+								<h2>{{ page.title }}</h2>
+								{% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
+							</header>
+							{% endif %}
+							{{ content }}
+						</section>
+					<!-- End Main Content -->
+				</div>
+				<div class="3u 12u(mobile)">
+					{% include sidebar-right.html %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

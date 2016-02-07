@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Homepage
+  url: /
+
+- title: Three Column
+  url: /threecolumn/
+
+- title: "Two Column #1"
+  url: /twocolumn1/
+
+- title: "Two Column #2"
+  url: /twocolumn2/
+
+- title: One Column
+  url: /onecolumn/

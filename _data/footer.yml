@@ -1,0 +1,56 @@
+# Items for footer
+- widget: # widget 1
+  links:
+    - description: Neque amet dapibus
+      url: "#"
+
+    - description: Sed mattis quis rutrum
+      url: "#"
+
+    - description: Accumsan suspendisse
+      url: "#"
+
+    - description: Eu varius vitae magna
+      url: "#"
+
+- widget: # widget 2
+  links:
+    - description: Neque amet dapibus
+      url: "#"
+
+    - description: Sed mattis quis rutrum
+      url: "#"
+
+    - description: Accumsan suspendisse
+      url: "#"
+
+    - description: Eu varius vitae magna
+      url: "#"
+
+- widget: # widget 3
+  links:
+    - description: Neque amet dapibus
+      url: "#"
+
+    - description: Sed mattis quis rutrum
+      url: "#"
+
+    - description: Accumsan suspendisse
+      url: "#"
+
+    - description: Eu varius vitae magna
+      url: "#"
+
+- widget: # widget 4
+  links:
+    - description: Neque amet dapibus
+      url: "#"
+
+    - description: Sed mattis quis rutrum
+      url: "#"
+
+    - description: Accumsan suspendisse
+      url: "#"
+
+    - description: Eu varius vitae magna
+      url: "#"

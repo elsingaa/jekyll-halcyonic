@@ -1,0 +1,15 @@
+# Site wide configuration
+
+title: Halcyonic
+description: Conversion of html5up's HTML5 template
+url:
+
+owner: 
+    name: elsinga.io
+    email: info@elsinga.io
+    pinterest:
+    bing:
+    alexa:
+    google:
+        verify: 
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock","LICENSE", "node_modules", "Gruntfile.js", "package.json"]
